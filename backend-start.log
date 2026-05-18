@@ -1,0 +1,40 @@
+
+> backend@1.0.0 start
+> node app.js
+
+[dotenv@17.2.3] injecting env (1) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+✅ MongoDB connected: ac-gmwhzge-shard-00-02.cjunef1.mongodb.net
+✅ Server running on port 5000
+connection established
+User connected: M_ihb8Ld32aQDeFUAAAB
+User disconnected: M_ihb8Ld32aQDeFUAAAB
+connection established
+User connected: -qTJXnMvbKWS5qiJAAAD
+connection established
+User connected: 6FfvhYJc6NlAjrCuAAAF
+message http://localhost:5173/123 : yadav hii
+message http://localhost:5173/123 : mohit hello
+connection established
+User connected: X_YjsXOBSnS9UslYAAAH
+message http://localhost:5173/123 : rr hell
+connection established
+User connected: xVtPoUNY_DkuYpOVAAAJ
+User disconnected: -qTJXnMvbKWS5qiJAAAD
+User disconnected: 6FfvhYJc6NlAjrCuAAAF
+User disconnected: X_YjsXOBSnS9UslYAAAH
+User disconnected: xVtPoUNY_DkuYpOVAAAJ
+connection established
+User connected: q_uQQvRFyndgJ2sXAAAL
+connection established
+User connected: 2anW30XNIxVqDN-UAAAN
+connection established
+User connected: EIS9wni9jHzcU86KAAAP
+connection established
+User connected: zoS-VxBjhDYzJpSxAAAR
+User disconnected: q_uQQvRFyndgJ2sXAAAL
+User disconnected: EIS9wni9jHzcU86KAAAP
+User disconnected: 2anW30XNIxVqDN-UAAAN
+User disconnected: zoS-VxBjhDYzJpSxAAAR
+connection established
+User connected: hMsIGRpxJKN-r3QhAAAT
+User disconnected: hMsIGRpxJKN-r3QhAAAT
