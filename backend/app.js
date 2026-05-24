@@ -14,36 +14,6 @@ const server = createServer(app);
 // ---------- Initialize Socket.IO ----------
 connectToSocket(server);
 
-/* ---------- Socket.IO ---------- */
-//  const io = connectToSocket(server, {
-//    cors: {
-//      origin: "http://localhost:5173/",
-//      methods: ["GET", "POST"],
-//      Credentials: true,
-//    },
-//  });
-
-// io.on('connection', (socket) => {
-//   console.log('a user connected');
-//   console.log(socket.id);
-//   socket.emit('welcome', "this is socket intro " + socket.id);
-
-//    socket.on('receive-message', (msg) => {
-//     console.log('message: ' + msg);
-//   });
-
-// io.on("connection", (socket) => {
-//   socket.emit("welcome", "Welcome to chat 🚀");
-
-//   socket.on("send-message", (data) => {
-//     io.emit("receive-message", data);
-//   });
-// });
-
-//  socket.on('disconnect', () => {
-//   console.log('user disconnected referesh to to connect agaiun');
-// });
-// });
 
 /* ---------- Middlewares ---------- */
 app.use(
